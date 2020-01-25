@@ -47,5 +47,5 @@ $(function () {
   };
 
   getData();
-  setInterval(getData, 10);
+  setInterval(getData, 20);
 });
